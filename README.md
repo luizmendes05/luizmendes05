@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
+![GIF Engraçado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxicm5uY3dta24xczhmMnJpbXNhcjdxdDNvZ2Vta3pnY3h1YTdwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G38XKFhbI44h7PmRiw/giphy.gif)
+
+
 ## Sobre mim
 
 - 🚀 Entusiasta de tecnologia e desenvolvimento de software.  
