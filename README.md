@@ -7,7 +7,7 @@
 <p align="center">
   <!-- ℹ️ COMO ALTERAR O GIF: 
        Substitua o link do "src" abaixo pelo link de qualquer outro GIF ou imagem que preferir -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxicm5uY3dta24xczhmMnJpbXNhcjdxdDNvZ2Vta3pnY3h1YTdwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G38XKFhbI44h7PmRiw/giphy.gif" width="300" alt="Gengar GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBobmJiczU4dTJmejRxaWZpZjE0N2o0YmpyMXVscXQ1em5rYjFucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whwmMnMVuZqZQfbQPy/giphy.gif" />
 </p>
 
 <div align="center">
