@@ -1,4 +1,4 @@
-# Olá! Eu sou o Luiz Gustavo 👋
+# Olá! Eu sou o Luiz Gustavo 👋 / Hello! I'm Luiz Gustavo 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luizmendes05&color=9d4edd&style=flat-square" alt="Profile Views" />
