@@ -12,16 +12,16 @@
 
 <div align="center">
   <!-- ℹ️ COMO ALTERAR AS CORES E TEXTOS DA ESCRITA DINÂMICA:
-       - Para mudar a cor: Altere o parâmetro "color=9D4EDD" para a cor hexadecimal desejada (ex: color=FF0000 para vermelho, color=00FF00 para verde).
+       - Para mudar a cor: Altere o parâmetro "color=9D4EDD" para a cor desejada (código hex).
        - Para mudar o texto: Altere os valores de "lines=..." separados por ponto e vírgula (;) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Solu%C3%A7%C3%B5es+de+IA;Analista+de+Dados+%2F+BI;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Solu%C3%A7%C3%B5es+de+IA;AI+Solutions+Developer;Analista+de+Dados+%2F+BI;Data+Analyst+%2F+BI;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+Student" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 💫 Sobre Mim
+### 🇧🇷 Sobre Mim (PT-BR)
 Sou estudante de **Ciência da Computação** com sólida experiência prática no desenvolvimento de soluções tecnológicas, inteligência artificial e análise de dados no setor público e privado.
 
 - 🚀 Atualmente sou **Estagiário de TI / Soluções de IA** na **Positivo S+**.
@@ -29,9 +29,17 @@ Sou estudante de **Ciência da Computação** com sólida experiência prática 
 - 🎓 Graduando em Ciência da Computação pela Universidade Cruzeiro do Sul (Previsão: 06/2027).
 - 🗣️ Fluente em **Inglês** e intermediário em **Espanhol**.
 
+### 🇺🇸 About Me (EN-US)
+I am a **Computer Science** student with solid practical experience in developing technological solutions, Artificial Intelligence, and data analysis in both public and private sectors.
+
+- 🚀 Currently working as an **IT / AI Solutions Intern** at **Positivo S+**.
+- 💼 Proven track record working at the **Brazilian Federal Police (PF)** and the **Federal Court of Accounts (TCU)**.
+- 🎓 Pursuing a Bachelor's degree in Computer Science at Universidade Cruzeiro do Sul (Expected graduation: 06/2027).
+- 🗣️ Fluent in **English** and intermediate in **Spanish**.
+
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas / Tech Stack
 <p align="left">
   <!-- IA & Dados -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +61,7 @@ Sou estudante de **Ciência da Computação** com sólida experiência prática 
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub / GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizmendes05&show_icons=true&theme=radical&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&border_color=21262d" alt="Luiz's GitHub Stats" height="160px" />
   &nbsp;&nbsp;
@@ -62,7 +70,7 @@ Sou estudante de **Ciência da Computação** com sólida experiência prática 
 
 ---
 
-### 🤝 Conecte-se comigo
+### 🤝 Conecte-se comigo / Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/luizmendes05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
