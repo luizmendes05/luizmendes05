@@ -1,4 +1,4 @@
-# Olá! Eu sou o Luiz Gustavo 👋 / Hello! I'm Luiz Gustavo 👋
+# Olá! Eu sou o Luiz Gustavo 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luizmendes05&color=9d4edd&style=flat-square" alt="Profile Views" />
@@ -7,7 +7,7 @@
 <p align="center">
   <!-- ℹ️ COMO ALTERAR O GIF: 
        Substitua o link do "src" abaixo pelo link de qualquer outro GIF ou imagem que preferir -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBobmJiczU4dTJmejRxaWZpZjE0N2o0YmpyMXVscXQ1em5rYjFucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whwmMnMVuZqZQfbQPy/giphy.gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxicm5uY3dta24xczhmMnJpbXNhcjdxdDNvZ2Vta3pnY3h1YTdwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G38XKFhbI44h7PmRiw/giphy.gif" width="300" alt="Gengar GIF" />
 </p>
 
 <div align="center">
@@ -41,13 +41,22 @@ I am a **Computer Science** student with solid practical experience in developin
 
 ### 🛠️ Tecnologias & Ferramentas / Tech Stack
 <p align="left">
-  <!-- IA & Dados -->
+  <!-- IA & Chatbots -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Gen_IA-7B2CBF?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatbots-9D4EDD?style=for-the-badge&logo=probot&logoColor=white" />
+
+  <br/>
+
+  <!-- Dados & BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
   <br/>
 
   <!-- Dev & Ferramentas -->
@@ -55,8 +64,9 @@ I am a **Computer Science** student with solid practical experience in developin
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
