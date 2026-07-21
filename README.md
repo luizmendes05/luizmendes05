@@ -1,13 +1,9 @@
 # Olá! Eu sou o Luiz Gustavo 👋
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxuaDdreHlkMHNobjZoMjRxMm81NDNyaHoycjZna3V1dGY5MTBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/03TTsMRaWb3TpfM8OI/giphy.gif" />
-</p>
-
-<p align="center">
   <!-- ℹ️ COMO ALTERAR O GIF: 
        Substitua o link do "src" abaixo pelo link de qualquer outro GIF ou imagem que preferir -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNtd2V4MzhlbDFrM2s1Y3lnYXA5YTkwNjVvZng3NGxxaDg3MW1kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/whwmMnMVuZqZQfbQPy/giphy.gif" width="380" alt="Gengar GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxuaDdreHlkMHNobjZoMjRxMm81NDNyaHoycjZna3V1dGY5MTBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/03TTsMRaWb3TpfM8OI/giphy.gif" />
 </p>
 
 <div align="center">
