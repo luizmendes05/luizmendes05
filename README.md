@@ -66,15 +66,6 @@ I am a **Computer Science** student with solid practical experience in developin
 
 ---
 
-### 📈 Estatísticas do GitHub / GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizmendes05&show_icons=true&theme=radical&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&border_color=21262d&cache_seconds=1800" alt="Luiz's GitHub Stats" height="160px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmendes05&layout=compact&theme=radical&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9&border_color=21262d&cache_seconds=1800" alt="Luiz's Top Languages" height="160px" />
-</div>
-
----
-
 ### 🤝 Conecte-se comigo / Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/luizmendes05" target="_blank">
