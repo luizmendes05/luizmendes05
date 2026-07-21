@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luiz Gustavo 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizmendes05&color=9d4edd&style=flat-square" alt="Profile Views" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxuaDdreHlkMHNobjZoMjRxMm81NDNyaHoycjZna3V1dGY5MTBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/03TTsMRaWb3TpfM8OI/giphy.gif" />
 </p>
 
 <p align="center">
