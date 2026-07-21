@@ -3,7 +3,7 @@
 <p align="center">
   <!-- ℹ️ COMO ALTERAR O GIF: 
        Substitua o link do "src" abaixo pelo link de qualquer outro GIF ou imagem que preferir -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxuaDdreHlkMHNobjZoMjRxMm81NDNyaHoycjZna3V1dGY5MTBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/03TTsMRaWb3TpfM8OI/giphy.gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTAyMjk5aW0xZ2FzczJ0NGM1dG5hNWU2amY5dTVzOG1pZjNxM3JnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p81p3lBefqbHVjKXdj/giphy.gif" />
 </p>
 
 <div align="center">
