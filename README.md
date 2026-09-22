@@ -20,7 +20,7 @@
 ### 🇧🇷 Sobre Mim (PT-BR)
 Sou estudante de **Ciência da Computação** com sólida experiência prática no desenvolvimento de soluções tecnológicas, inteligência artificial e análise de dados no setor público e privado.
 
-- 🚀 Atualmente sou **Estagiário de TI / Soluções de IA** na **Positivo S+**.
+- 🚀 Atualmente sou **Desenvolvedor Júnior de TI / Soluções de IA** na **Positivo S+**.
 - 💼 Histórico comprovado de atuação na **Polícia Federal** e no **Tribunal de Contas da União**.
 - 🎓 Graduando em Ciência da Computação pela Universidade Cruzeiro do Sul (Previsão: 06/2027).
 - 🗣️ Fluente em **Inglês** e intermediário em **Espanhol**.
@@ -28,7 +28,7 @@ Sou estudante de **Ciência da Computação** com sólida experiência prática 
 ### 🇺🇸 About Me (EN-US)
 I am a **Computer Science** student with solid practical experience in developing technological solutions, Artificial Intelligence, and data analysis in both public and private sectors.
 
-- 🚀 Currently working as an **IT / AI Solutions Intern** at **Positivo S+**.
+- 🚀 Currently working as a **Junior IT / AI Solutions Developer** at **Positivo S+**.
 - 💼 Proven track record working at the **Brazilian Federal Police (PF)** and the **Federal Court of Accounts (TCU)**.
 - 🎓 Pursuing a Bachelor's degree in Computer Science at Universidade Cruzeiro do Sul (Expected graduation: 06/2027).
 - 🗣️ Fluent in **English** and intermediate in **Spanish**.
